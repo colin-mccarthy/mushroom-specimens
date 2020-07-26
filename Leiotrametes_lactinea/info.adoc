@@ -1,0 +1,33 @@
+
+[black big]*Name:
+Leiotrametes lactinea*
+
+
+Date:
+Sunday July, 26 2020
+
+Location:
+Black Creek Greenway Cary , NC
+
+Scene:
+On a fallen log just off the bike path.
+
+Book:
+A field Guide to Mushrooms of the Carolinas
+
+Page: 269 Polypores
+
+
+
+
+image:photos/single-log.jpeg[640,480]
+
+image:photos/double-log.jpeg[640,480]
+
+image:photos/third-log.jpeg[640,480]
+
+image:photos/back.jpeg[640,480]
+
+image:photos/front.jpeg[640,480]
+
+image:photos/book.jpeg[640,480]
