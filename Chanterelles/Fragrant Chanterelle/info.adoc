@@ -1,0 +1,31 @@
+[black big]*Name:
+Fragrant Chanterelles*
+
+
+Date:
+Saturday Aug, 08 2020
+
+Location:
+Black Creek Greenway Cary , NC
+
+Scene:
+On a moss/woods next to Greenway.(Battery Neighborhood)
+
+Book:
+A Field Guide to Mushrooms of the Carolinas
+
+Page: 194 Chanterelles
+
+
+
+image:photos/IMG_1322.jpeg[740,580]
+
+image:photos/IMG_1328.jpeg[740,580]
+
+image:photos/IMG_1329.jpeg[740,580]
+
+image:photos/IMG_1330.jpeg[740,580]
+
+image:photos/IMG_1331.jpeg[740,580]
+
+image:photos/IMG_1326.jpeg[740,580]
