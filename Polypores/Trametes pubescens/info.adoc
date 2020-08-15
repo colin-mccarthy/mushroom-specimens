@@ -1,0 +1,25 @@
+[black big]*Name:
+Trametes Pubences*
+
+
+Date:
+Saturday Aug, 15 2020
+
+Location:
+Black Creek Greenway Cary , NC
+
+Scene:
+On a fallen tree next to the Greenway.(Battery Neighborhood)
+
+Book:
+A Field Guide to Mushrooms of the Carolinas
+
+Page: 273 Polypores
+
+
+
+image:photos/IMG_1344.jpeg[740,580]
+
+image:photos/IMG_1343.jpeg[740,580]
+
+image:photos/IMG_1345.jpeg[740,580]
