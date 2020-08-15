@@ -1,9 +1,9 @@
 [black big]*Name:
-Funnel Veil Amanita*
+Amanita Russuloides*
 
 
 Date:
-Saturday Aug, 01 2020
+Saturday Aug, 08 2020
 
 Location:
 Black Creek Greenway Cary , NC
@@ -14,25 +14,28 @@ On a lawn/grass next to a sidewalk.(Battery Neighborhood)
 Book:
 A Field Guide to Mushrooms of the Carolinas
 
-Page: 58 Gilled Mushroom
+Page: 56 Gilled Mushroom
+
+
+image:photos/book.jpeg[740,580]
+
+image:photos/IMG_1268.jpeg[740,580]
+
+image:photos/IMG_1269.jpeg[740,580]
 
 
 
 
-image:photos/IMG_1236.jpeg[640,480]
 
-image:photos/IMG_1237.jpeg[640,480]
 
-image:photos/IMG_1238.jpeg[640,480]
+Date:
+Saturday Aug, 15 2020
 
-image:photos/IMG_1239.jpeg[640,480]
+Location:
+Black Creek Greenway Cary , NC
 
-image:photos/IMG_1240.jpeg[640,480]
+Scene:
+On the Greenway.(Battery Neighborhood)
 
-image:photos/IMG_1241.jpeg[640,480]
 
-image:photos/IMG_1242.jpeg[640,480]
-
-image:photos/IMG_1243.jpeg[640,480]
-
-image:photos/IMG_1246.jpeg[640,480]
+image:photos/IMG_1270.jpeg[740,580]
