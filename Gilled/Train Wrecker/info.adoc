@@ -1,5 +1,5 @@
 [black big]*Name:
-Funnel Veil Amanita*
+Train Wrecker*
 
 
 Date:
@@ -9,30 +9,20 @@ Location:
 Black Creek Greenway Cary , NC
 
 Scene:
-On a lawn/grass next to a sidewalk.(Battery Neighborhood)
+Near the YMCA/ Bond Lake
 
 Book:
 A Field Guide to Mushrooms of the Carolinas
 
-Page: 58 Gilled Mushroom
+Page: 93 Gilled Mushroom
 
 
 
 
-image:photos/IMG_1236.jpeg[640,480]
+image:photos/IMG_1253.jpeg[740,580]
 
-image:photos/IMG_1237.jpeg[640,480]
+image:photos/IMG_1254.jpeg[740,580]
 
-image:photos/IMG_1238.jpeg[640,480]
+image:photos/IMG_1257.jpeg[740,580]
 
-image:photos/IMG_1239.jpeg[640,480]
-
-image:photos/IMG_1240.jpeg[640,480]
-
-image:photos/IMG_1241.jpeg[640,480]
-
-image:photos/IMG_1242.jpeg[640,480]
-
-image:photos/IMG_1243.jpeg[640,480]
-
-image:photos/IMG_1246.jpeg[640,480]
+image:photos/book.jpeg[740,580]
