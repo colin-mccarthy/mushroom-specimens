@@ -1,0 +1,24 @@
+[black big]*Name:
+Shaggy-Stalked Bolete*
+
+
+Date:
+Saturday June, 20 2020
+
+Location:
+North Cary park, Cary, NC
+
+Scene:
+Next to the Greenway.
+
+Book:
+A Field Guide to Mushrooms of the Carolinas
+
+Page: 239 Boletes
+
+
+image:photos/IMG_1121.jpeg[740,580]
+
+image:photos/IMG_1120.jpeg[740,580]
+
+image:photos/IMG_1341.jpeg[740,580]
