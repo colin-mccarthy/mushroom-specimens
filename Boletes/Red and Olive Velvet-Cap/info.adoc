@@ -1,0 +1,30 @@
+[black big]*Name:
+Red and Olive Velvet-Cap*
+
+
+Date:
+Saturday Aug, 15 2020
+
+Location:
+Black Creek Greenway Cary , NC
+
+Scene:
+Next to a small reek right off the Greenway.(Battery Neighborhood)
+
+Book:
+A Field Guide to Mushrooms of the Carolinas
+
+Page: 233 Boletes
+
+
+
+
+image:photos/IMG_1297.jpeg[640,480]
+
+image:photos/IMG_1298.jpeg[640,480]
+
+image:photos/IMG_1300.jpeg[640,480]
+
+image:photos/IMG_1301.jpeg[640,480]
+
+image:photos/book.jpeg[640,480]
