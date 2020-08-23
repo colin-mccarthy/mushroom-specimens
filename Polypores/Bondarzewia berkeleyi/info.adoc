@@ -1,0 +1,22 @@
+[black big]*Name: Bondarzewia berkeleyi*
+
+
+Date:
+Sunday Aug, 23 2020
+
+Location:
+Black Creek Greenway Cary , NC
+
+Scene:
+On tree next to the Greenway.(Bond Lake Area)
+
+Book:
+A Field Guide to Mushrooms of the Carolinas
+
+Page: ? Polypores
+
+
+
+image:photos/tree1.jpg[740,580]
+
+image:photos/tree2.jpg[740,580]
